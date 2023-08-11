@@ -14,8 +14,4 @@ main = do
     putStrLn $ "Final Result: " ++ show result
     putStrLn "Log Messages:"
     mapM_ putStrLn logMessages
-outputFinal Result: 2
-Log Messages:
-Starting computation
-Adding 5
-Subtracting 3
+
